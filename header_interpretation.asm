@@ -1,4 +1,9 @@
-        .data
+# JMSSIM003
+# question1.asm -- will tell us information about a wave file by 
+# reading its header. Your program should prompt the user to enter the full file name (the entire 
+# path) and the file size (in bytes) as input
+
+.data
 FilePath:   .space 64
 Prompt1:     .asciiz "Enter a wave file name:\n"
 Prompt2:    .asciiz "Enter the file size (in bytes):\n"
