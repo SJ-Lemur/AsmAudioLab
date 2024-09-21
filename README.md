@@ -1,7 +1,7 @@
 
 
 **Description**:  
-WaveAssembly is a collection of MIPS assembly programs designed for analyzing and manipulating `.wav` audio files at the byte level. These programs are capable of interpreting wave file headers, analyzing audio data, and performing operations on sound files, such as reversing audio. The repository contains the following programs:
+AsmAudioLab is a collection of MIPS assembly programs designed for analyzing and manipulating `.wav` audio files at the byte level. These programs are capable of interpreting wave file headers, analyzing audio data, and performing operations on sound files, such as reversing audio. The repository contains the following programs:
 
 ### Programs
 
